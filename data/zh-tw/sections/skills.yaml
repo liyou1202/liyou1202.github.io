@@ -39,7 +39,7 @@ skills:
 
 - name: Linux
   logo: "/images/author/Linux_Logo.png"
-  summary: "可以熟練使用基本操作指令並結合 GCP 搭建開發與編譯的環境"
+  summary: "可以熟練使用基本操作指令並結合 GCP 或 VMware 搭建開發與編譯的環境"
 
 - name: 網頁開發
   logo: "/images/author/HTML_Logo.png"
