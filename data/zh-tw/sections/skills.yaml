@@ -43,7 +43,7 @@ skills:
 
 - name: 網頁開發
   logo: "/images/author/HTML_Logo.png"
-  summary: "- [HUGO](https://github.com/elazarl/goproxy)
+  summary: "- [HUGO](https://gohugo.io/)
             \n- basic vanilla Javascript (ES6)
             \n- [jQuery](https://jquery.com/) & [Bootstrap](https://getbootstrap.com/)"
 
