@@ -6,6 +6,7 @@ theme: "toha"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+defaultContentLanguage: zh-tw
 languages:
   zh-tw:
     languageName: 中文
@@ -46,10 +47,10 @@ params:
   enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
-  enableTOC: true
+  enableTOC: false
 
   # specify whether you want the language flags to be displayed. 
-  showFlags: false
+  showFlags: true
 
   # Provide newsletter configuration. 
   # This feature has been implemented for Mailchimp only for now.
