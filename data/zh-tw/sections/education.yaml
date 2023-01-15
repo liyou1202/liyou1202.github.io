@@ -1,0 +1,44 @@
+# section information
+section:
+  name: 學習歷程
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: 雲端技術應用實務
+  icon: fa-university
+  timeframe: 2020 Apr - Oct
+  institution:
+    name: 勞動部勞動力發展署 (臺中職訓局)
+    url: "https://www.wda.gov.tw/"
+  takenCourses:
+    showGrades: false
+    collapseAfter: 3
+    courses:
+      - name: Android mobile APP 開發與上架
+      - name: 使用 Bootstrap 與 Jquery 建構 RWD 網站
+      - name: 撰寫 API 串接 mySQL 實作出有 CRUD 的網站
+
+- name: 統計學系
+  icon: fa-graduation-cap
+  timeframe: 2015 - 2019
+  institution:
+    name: 逢甲大學
+    url: "https://www.fcu.edu.tw/"
+  takenCourses:
+    showGrades: false
+    collapseAfter: 3
+    courses:
+      - name: 資料的蒐集、整理、歸納、分析
+      - name: R 語言
+      - name: 會計學、經濟學、行銷管理
+  # extracurricularActivities: #(optional)
+  # - In vitae facilisis est, eget porta sem.
+  # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  # - Duis sed massa feugiat, ornare justo et, aliquam est.
+  # - Pellentesque ut fringilla magna.

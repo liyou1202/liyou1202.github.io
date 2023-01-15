@@ -10,21 +10,6 @@ section:
 
 # Your experiences
 experiences:
-- company:
-    name: NuPasta (打工經驗)
-    url: "https://www.nu-pasta.com.tw"
-    location: Taichung, Taiwan
-    # company overview
-    overview: NU PASTA 是以義大利麵、義式焗飯、手工茶飲與創意小點為主要販售商品的餐飲服務品牌
-  positions:
-  - designation: 內外場服務人員
-    start: Nov 2015
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Nov 2019
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - 烹飪、食材備料、庫存管理與出餐擺盤
-    - 送餐與桌面清潔
 
 - company:
     name: 中佑資訊有限公司
@@ -42,3 +27,18 @@ experiences:
     - (Python, Golang) 整合功能與自動化腳本開發
     - 文件撰寫以及跨部門協作
 
+- company:
+    name: NuPasta (打工經驗)
+    url: "https://www.nu-pasta.com.tw"
+    location: Taichung, Taiwan
+    # company overview
+    overview: NU PASTA 是以義大利麵、義式焗飯、手工茶飲與創意小點為主要販售商品的餐飲服務品牌
+  positions:
+  - designation: 內外場服務人員
+    start: Nov 2015
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Nov 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - 烹飪、食材備料、庫存管理與出餐擺盤
+    - 送餐與桌面清潔
