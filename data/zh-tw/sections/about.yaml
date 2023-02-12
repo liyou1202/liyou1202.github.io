@@ -18,7 +18,13 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "我有 2 年的軟體開發工作經驗，在中佑資訊負責開發 iOS 、Android 、Windows 三個平台的寰宇瀏覽器，工作期間與團隊夥伴透過開發 Golang Library 與 撰寫單元測試 整合重構寰宇瀏覽器核心功能，解決了各平台實作邏輯不統一與難以維護的問題，我喜歡探索新的知識和方法，同時也善於溝通和協調解決問題，並樂於分享我的技能，希望能夠在充滿 機會 和 挑戰 的環境中持續精進"
+summary: "我擁有 2 年的軟件開發工作經驗，在中佑資訊負責開發 iOS、Android 和 Windows 平台的「寰宇瀏覽器」。
+在工作期間我和團隊夥伴有著良好的互動與合作，
+透過開發 Golang Library 以及撰寫單元測試，整合「寰宇瀏覽器」的核心功能解決了各平台實作邏輯不統一和難以維護的問題。
+在我加入的兩年間，產品使用人數也逐步增加了一倍。
+我喜歡探索新的知識和方法，同時也具有良好的溝通和協調能力，並樂於分享我的技能。
+期望能夠在充滿「機會」和「挑戰」的環境中不斷進步。"
+
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:

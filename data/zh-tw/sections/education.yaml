@@ -20,9 +20,9 @@ degrees:
     showGrades: false
     collapseAfter: 3
     courses:
-      - name: 學習 Android mobile App 開發 與 google play store 上架
-      - name: 使用 Bootstrap 與 Jquery 建立簡易網站
       - name: 撰寫 API 串接 MySQL 資料庫
+      - name: 使用 Bootstrap 與 Jquery 建立簡易網站
+      - name: 學習 Android Mobile App 開發並上架於 Google Play Store 
 
 - name: 統計學系
   icon: fa-graduation-cap
@@ -34,6 +34,6 @@ degrees:
     showGrades: false
     collapseAfter: 3
     courses:
-      - name: 資料的蒐集、整理、歸納、分析
-      - name: 會計學、經濟學、行銷管理
       - name: R 語言
+      - name: 會計學、經濟學、行銷管理
+      - name: 資料的蒐集、整理、歸納、分析

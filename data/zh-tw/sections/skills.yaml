@@ -11,63 +11,57 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: iOS mobile APP (Swift)
+- name: iOS Mobile APP (Swift)
   logo: "/images/author/Swift_Logo.png"
-  summary: "使用 Swift 撰寫 iOS 手機應用程式
+  summary: "開發 iOS 手機應用程式
             \n- [App Store](https://www.apple.com/tw/app-store/) 上架經驗
             \n- AdHoc 與 超級簽
             \n- 熟悉 WKWebview
-            \n- 較常使用與熟悉的程式語言"
+            \n- 整合 FireBase Analytics"
 
-- name: Android mobile APP (Java)
+- name: Android Mobile APP (Java)
   logo: "/images/author/Java_Logo.png"
-  summary: "使用 Java 撰寫 Android 手機應用程式
+  summary: "開發 Android 手機應用程式
             \n- [Google Play Store](https://play.google.com/store/games) 上架經驗
-            \n- 瀏覽器 base on [Chromium](https://www.chromium.org/chromium-projects/)"
+            \n- 瀏覽器 基於 [Chromium](https://www.chromium.org/chromium-projects/)
+            \n- 整合 FireBase Analytics"
 
 - name: Golang Development
   logo: "/images/author/Go_Logo.png"
-  summary: "使用 Golang 撰寫 Library 與測試的經驗 
-            \n  - local Http proxy(MITM) using [goproxy](https://github.com/elazarl/goproxy)
-            \n  - SSH Port Forwarding
-            \n  - SQLite
-            \n  - [gomobile](https://pkg.go.dev/golang.org/x/mobile/cmd/gomobile)"
+  summary: "開發 Library 與單元測試的經驗 
+            \n  - Http Proxy(MITM) 使用 [goproxy](https://github.com/elazarl/goproxy)
+            \n  - 跨平台 Library 使用 [gomobile](https://pkg.go.dev/golang.org/x/mobile/cmd/gomobile)
+            \n  - 整合 SQLite"
 
-- name: Python Development
-  logo: "/images/author/Python_Logo.png"
-  summary: "使用 Python 撰寫 自動化腳本"
 
-- name: Linux
-  logo: "/images/author/Linux_Logo.png"
-  summary: "可以熟練使用基本操作指令並結合 GCP 或 VMware 搭建開發與編譯的環境"
-
-- name: 網頁開發
+- name: Web Development
   logo: "/images/author/HTML_Logo.png"
   summary: "- [HUGO](https://gohugo.io/)
             \n- basic vanilla Javascript (ES6)
             \n- [jQuery](https://jquery.com/) & [Bootstrap](https://getbootstrap.com/)"
 
-- name: 版本控制 & Code review 
+- name: Linux
+  logo: "/images/author/Linux_Logo.png"
+  summary: "可以熟練使用基本操作指令並結合 GCP 或 VMware 搭建開發與編譯的環境"
+
+- name: Python Development
+  logo: "/images/author/Python_Logo.png"
+  summary: "開發 自動化腳本"
+
+- name: VCS & Code review 
   logo: "/images/author/Git_Logo.png"
   summary: "以 Git 做為主要使用版本控制工具，並有與團隊成員進行 Code review 的經驗
-  \n- 遠端 [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/)
-  \n- 遠端 [Cloud Source Repositories](https://source.cloud.google.com/onboarding/welcome)
-  \n- code review [Phabricator](https://secure.phabricator.com/)"
+  \n- Git 遠端 [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/)
+  \n- Git 遠端 [Cloud Source Repositories](https://source.cloud.google.com/onboarding/welcome)
+  \n- Code review [Phabricator](https://secure.phabricator.com/)"
 
 - name: GCP (Google Cloud Platform)
   logo: "/images/author/GCP_Logo.png"
   summary: "- Compute Engine
             \n- Cloud Source Repositories
-            \n- Cloud Storage
-            \n- Identity-Aware Proxy"
+            \n- Cloud Storage"
 
-- name: FireBase & Google Analytics
-  logo: "/images/author/FireBase_Logo.png"
-  summary: "- Firebase Analytics 
-            \n- iOS mobile APP 導入經驗 
-            \n- Android mobile APP 導入經驗"
-
-- name: 語言測驗
+- name: Language 
   logo: "/images/author/Cert_Logo.png"
-  summary: "- TOEIC: xx
-          \n- 日本語能力試驗 JLPT: N2 合格"
+  summary: "- 英語 TOEIC xx 分
+          \n- 日本語能力試驗 JLPT N2 合格"
