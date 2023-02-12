@@ -21,14 +21,14 @@ experiences:
     start: Nov 2020
     responsibilities:
     - 負責 [寰宇瀏覽器](https://ub66.com/) 多平台開發
-    - iOS [App Store](https://apps.apple.com/tw/app/%E5%AF%B0%E5%AE%87%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E5%85%A8%E7%89%88/id1541131030) (Swift) 
-    - Android  base on Chromium (Java)
-    - Windows  base on Chromium (C++, Qt)
-    - (Python, Golang) 整合功能與自動化腳本開發
+    - iOS [寰宇瀏覽器 App Store](https://apps.apple.com/tw/app/%E5%AF%B0%E5%AE%87%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E5%85%A8%E7%89%88/id1541131030) (Swift) 
+    - Android 寰宇瀏覽器 base on Chromium 
+    - Windows 寰宇瀏覽器 base on Chromium 
+    - 核心功能整合與自動化腳本開發 
     - 文件撰寫以及跨部門協作
 
 - company:
-    name: NuPasta (打工經驗)
+    name: NuPasta 義大利麵(打工經驗)
     url: "https://www.nu-pasta.com.tw"
     location: Taichung, Taiwan
     # company overview

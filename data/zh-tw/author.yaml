@@ -1,8 +1,8 @@
 # some information about you
-name: "Liyou Chen"
+name: "陳禮佑"
 nickname: "Leo"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Hi~ I am "
 image: "images/author/leoPhotoPic.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -22,6 +22,7 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - Experience in cross platform app developmen
-  - I love to work with some fun projects
+  - 我是一名軟體工程師
+  - 有多平台 App 開發的經驗
+  - 喜歡探索新知與挑戰
+  - 歡迎參觀我的 Blog
