@@ -11,12 +11,6 @@ languages:
   zh-tw:
     languageName: 中文
     weight: 1
-  jp:
-    languageName: 日本語
-    weight: 2
-  en:
-    languageName: English
-    weight: 3
 
 
 # Control TOC depth
@@ -39,6 +33,9 @@ enableEmoji: true
 
 # Site parameters
 params:
+  # Background image of the landing page
+  background: "images/site/a.jpg"
+
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/liyou1202/liyou1202.github.io
   gitBranch: master
@@ -47,10 +44,10 @@ params:
   enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
-  enableTOC: false
+  enableTOC: true
 
   # specify whether you want the language flags to be displayed. 
-  showFlags: true
+  showFlags: false
 
   # Provide newsletter configuration. 
   # This feature has been implemented for Mailchimp only for now.

@@ -8,9 +8,6 @@ image: "images/author/leoPhotoPic.jpg"
 contactInfo:
   email: "liyou1202@gmail.com"
   phone: "+886 926498738"
-  linkedin:
-    icon: linkedin
-    url: "https://www.linkedin.com/in/%E7%A6%AE%E4%BD%91-%E9%99%B3-435511251/"
   facebook:
     icon: facebook
     url: "https://www.facebook.com/st9540516"
