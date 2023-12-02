@@ -19,34 +19,16 @@ experiences:
   positions:
   - designation: 軟體工程師
     start: Nov 2020
+    end: June 2023
     responsibilities:
-    - 核心功能整合
-    - 自動化腳本開發 
+    - 使用 Golang 開發客製化 DNS 解析 Library (Http proxy相關) 整合跨平台應用程式
+    - 使用 Python 開發自動化腳本用以連接 GCP 多項服務 
+    - 使用 Swift 開發 iOS「寰宇瀏覽器」 並上架於 [App Store](https://apps.apple.com/tw/app/%E5%AF%B0%E5%AE%87%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E5%85%A8%E7%89%88/id1541131030)
     - 文件撰寫以及跨部門協作
-    - 負責[「寰宇瀏覽器」](https://ub66.com/)的多平台開發，包括：
+    - 維護與開發基於 Chromium 製作的多平台瀏覽器應用程式[「寰宇瀏覽器」](https://ub66.com/)
 
-      - iOS「寰宇瀏覽器」 並上架於 [App Store](https://apps.apple.com/tw/app/%E5%AF%B0%E5%AE%87%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E5%85%A8%E7%89%88/id1541131030)
+        - 使用 Java 開發的 Android「寰宇瀏覽器」
 
-      - Android「寰宇瀏覽器」，基於 Chromium
-
-      - Android「客製化瀏覽器」，基於 Chromium
-
-      - Windows「寰宇瀏覽器」，基於 Chromium
-
-
-- company:
-    name: NuPasta 義大利麵(打工經驗)
-    url: "https://www.nu-pasta.com.tw"
-    location: Taichung, Taiwan
-    # company overview
-    overview: NU PASTA 是以義大利麵、義式焗飯、手工茶飲與創意小點為主要販售商品的餐飲服務品牌
-  positions:
-  - designation: 內外場服務人員
-    start: Nov 2015
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Nov 2019
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - 烹飪、 出餐擺盤
-    - 食材備料、庫存管理
-    - 送餐、桌面清潔
+        - 使用 Java 開發的 Android「客製化寰宇瀏覽器」
+        
+        - 維護 Windows「寰宇瀏覽器」

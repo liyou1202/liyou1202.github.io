@@ -23,21 +23,21 @@ skills:
   logo: "/images/author/Java_Logo.png"
   summary: "開發 Android 手機應用程式
             \n- [Google Play Store](https://play.google.com/store/games) 上架經驗
-            \n- 瀏覽器 基於 [Chromium](https://www.chromium.org/chromium-projects/)
+            \n- 開發基於 [Chromium](https://www.chromium.org/chromium-projects/) 的瀏覽器 App
             \n- 整合 FireBase Analytics"
 
 - name: Golang Development
   logo: "/images/author/Go_Logo.png"
   summary: "開發 Library 與單元測試的經驗 
-            \n  - Http Proxy(MITM) 使用 [goproxy](https://github.com/elazarl/goproxy)
-            \n  - 跨平台 Library 使用 [gomobile](https://pkg.go.dev/golang.org/x/mobile/cmd/gomobile)
-            \n  - 整合 SQLite"
+            \n  - 結合 SQLite 開發客製化 DNS 解析邏輯
+            \n  - 使用 [goproxy](https://github.com/elazarl/goproxy) 開發 Http Proxy Library
+            \n  - 使用 [gomobile](https://pkg.go.dev/golang.org/x/mobile/cmd/gomobile) 編譯提供給手機 App 使用 Go library"
 
 
 - name: Web Development
   logo: "/images/author/HTML_Logo.png"
-  summary: "- [HUGO](https://gohugo.io/)
-            \n- basic vanilla Javascript (ES6)
+  summary: "開發網站 [KSM Company](https://ksm.com.tw/) & [Blog](/#)
+            \n- [HUGO](https://gohugo.io/)
             \n- [jQuery](https://jquery.com/) & [Bootstrap](https://getbootstrap.com/)"
 
 - name: Linux
@@ -46,7 +46,8 @@ skills:
 
 - name: Python Development
   logo: "/images/author/Python_Logo.png"
-  summary: "開發 自動化腳本"
+  summary: "- 開發自動化腳本
+            \n- 連接 GCP 虛擬機 AutoScale 等服務"
 
 - name: VCS & Code review 
   logo: "/images/author/Git_Logo.png"
@@ -55,13 +56,14 @@ skills:
   \n- Git 遠端 [Cloud Source Repositories](https://source.cloud.google.com/onboarding/welcome)
   \n- Code review [Phabricator](https://secure.phabricator.com/)"
 
-- name: GCP (Google Cloud Platform)
+- name: Cloud Service
   logo: "/images/author/GCP_Logo.png"
-  summary: "- Compute Engine
-            \n- Cloud Source Repositories
-            \n- Cloud Storage"
+  summary: "- Google Cloud Service (GCP)
+            \n- Amazon Web Service (AWS)"
 
-- name: Language 
+
+- name: Certificate 
   logo: "/images/author/Cert_Logo.png"
-  summary: "- 英語 TOEIC xx 分
-          \n- 日本語能力試驗 JLPT N2 合格"
+  summary: "- 英語 TOEIC 660 分
+          \n- 日本語能力試驗 JLPT N2 合格
+          \n- AWS Solution Architect Associate"

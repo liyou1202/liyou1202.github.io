@@ -8,7 +8,7 @@ description: Portfolio and personal blog of liyou Chen.
 # they will be separated by a divider from the main menus.
 customMenus:
 - name: 履歷
-  url: https://liyou-chen.site/files/resume.pdf
+  url: /files/resume.pdf
   # specify whether to hide the menu item from top navbar or not.
   hideFromNavbar: false
   # specify whether to show the menu item in footer or not.
@@ -20,5 +20,5 @@ openGraph:
   title: Leo's Blog
   type: website
   description: Portfolio and personal blog of Leo.
-  image: https://liyou-chen.site/images/site/background.jpg
+  image: /images/site/background.jpg
   url: https://liyou-chen.site
