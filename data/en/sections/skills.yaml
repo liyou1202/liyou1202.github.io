@@ -1,0 +1,71 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: iOS Mobile APP (Swift)
+  logo: "/images/author/Swift_Logo.png"
+  summary: "Developed iOS mobile applications.
+            \n- Proficient in WKWebView.
+            \n- FireBase Analytics
+            \n- Experience with publishing on the App store, Adhoc and super signing"
+
+- name: Android Mobile APP (Java)
+  logo: "/images/author/Java_Logo.png"
+  summary: "Developed Android mobile applications.
+            \n- FireBase Analytics
+            \n- Developed a browser app based on Chromium
+            \n- Experience with publishing on Google Play Store"
+
+- name: Golang Development
+  logo: "/images/author/Go_Logo.png"
+  summary: "Experience in developing libraries and conducting unit tests. 
+            \n - Developed DNS resolution logic.
+            \n - Experience with Integrated SQLite.
+            \n - Developed an HTTP Proxy Library using [goproxy](https://github.com/elazarl/goproxy). 
+            \n - Compiled a Go library for mobile app usage using [gomobile](https://pkg.go.dev/golang.org/x/mobile/cmd/gomobile)."
+
+
+- name: Web Development
+  logo: "/images/author/HTML_Logo.png"
+  summary: "Developed websites
+            \n- [Blog](/#) using [HUGO](https://gohugo.io/)
+            \n- [KSM Company](https://ksm.com.tw/) using [Bootstrap](https://getbootstrap.com/)"
+
+- name: Linux
+  logo: "/images/author/Linux_Logo.png"
+  summary: "Proficient in using basic command-line operations and experienced in setting up environments by integrating with GCP or VMware."
+
+- name: Python Development
+  logo: "/images/author/Python_Logo.png"
+  summary: "Developed automation scripts for GCP services and control VM utilization."
+
+- name: VCS & Code review 
+  logo: "/images/author/Git_Logo.png"
+  summary: "Primarily utilized Git for version control, and experienced in conducting code reviews with team members.
+  \n - GitLab, GitHub 
+  \n - Cloud Source Repositories
+  \n - Code review [Phabricator](https://secure.phabricator.com/)"
+
+- name: Cloud Service
+  logo: "/images/author/GCP_Logo.png"
+  summary: "Google Cloud Platform (GCP) & Amazon Web Service (AWS)
+             \n- Compute Engine
+             \n- Cloud Scheduler
+             \n- Cloud Function
+             \n- Pub/Sub"
+
+
+- name: Certificate 
+  logo: "/images/author/Cert_Logo.png"
+  summary: "- TOEIC score of 660 in English.
+          \n- JLPT N2 in Japanese.
+          \n- [AWS Solution Architect Associate](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/)"

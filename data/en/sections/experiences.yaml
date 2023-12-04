@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+
+- company:
+    name: CHUNG YO INTERNET INFORMATION CO., LTD.
+    url: "https://cycareers.com.tw/"
+    location: Taichung, Taiwan
+    overview: CHUNG YO INTERNET INFORMATION offers game development and online software platform system integration services,
+      backed by a professional research and design team. We are dedicated to pursuing the highest quality and
+      continuously innovating through research and development in cutting-edge technologies.
+  positions:
+  - designation: Software Engineer
+    start: Nov 2020
+    end: June 2023
+    responsibilities:
+    - Developed an iOS version [Universal Browser](https://ub66.com/) and successfully published it on the [App Store](https://apps.apple.com/tw/app/%E5%AF%B0%E5%AE%87%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E5%85%A8%E7%89%88/id1541131030)
+
+    - Developed a custom DNS resolution library using Golang.
+    - Developed automation scripts to connect GCP various services using Python.
+    - Document composition and cross-department collaboration.
+
+    - Maintained and developed multi-platform [Universal Browser](https://ub66.com/) application based on Chromium
+        
+        - Developed the Android version of Universal Browser using Java.
+      
+        - Developed customized version of the Universal Browser for Android.
+      
+        - Maintained the Windows version of the Universal Browser.

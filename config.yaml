@@ -9,9 +9,17 @@ theme: "toha"
 defaultContentLanguage: zh-tw
 languages:
   zh-tw:
+    contentDir: content/zh-tw
     languageName: 中文
     weight: 1
-
+  en:
+    contentDir: content/en
+    languageName: English
+    weight: 2
+  jp:
+    contentDir: content/jp
+    languageName: 日本語
+    weight: 3
 
 # Control TOC depth
 markup:

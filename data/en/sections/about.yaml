@@ -1,0 +1,41 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Developer
+
+# a summary about you
+summary: "Hello, my name is Chen LI YOU (陳禮佑) from Taiwan. I had about 2 and a half years of experience 
+  as a software engineer. I have mainly been involved in the development of web browser apps for iOS and Android platforms.
+  However, I also have experience in developing libraries (related to Http proxy) using Golang and automation scripts 
+  using Python to integrate different platforms."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "liyou1202@gmail.com"
+
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/liyou1202"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/liyou-chen-435511251"
+  - facebook:
+    icon: "fab fa-facebook"
+    url: "https://www.facebook.com/st9540516"
+  - instagram:
+    icon: "fab fa-instagram"
+    url: "https://www.instagram.com/liyou1202/"
+
+
+badges:
