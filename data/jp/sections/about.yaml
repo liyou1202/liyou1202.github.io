@@ -1,0 +1,51 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation:
+# your company information
+company:
+  name: 中佑情報株式会社
+  url: "https://cycareers.com.tw/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "陳禮佑（チェン・リーユウ）と申します。
+台湾の会社で2年半ほどソフトウェアエンジニアとしての開発経験を積みました。
+主にはiOSおよびAndroidのウェブブラウザアプリの開発に携わってきましたが、異なるプラットフォームを統合するためにGolangでライブラリ（Httpプロキシに関連する）
+やPythonの自動化スクリプトの開発経験もあります。 私は新しい知識や手法を探求することが好きであり、同時に良好なコミュニケーションと協調能力を持っており、
+自分のスキルをシェアすることに喜びを感じています。
+充実した「機会」と「挑戦」に満ちた環境での成長を期待しています。"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "liyou1202@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/liyou1202"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/liyou-chen-435511251"
+
+- facebook:
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/st9540516"
+- instagram:
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/liyou1202/"
+
+
+badges:

@@ -1,0 +1,71 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: iOS Mobile APP (Swift)
+  logo: "/images/author/Swift_Logo.png"
+  summary: "iOSモバイルアプリケーションの開発経験があります
+          \n- WKWebViewに精通しています。
+          \n- FireBase Analyticsの使用経験があります。
+          \n- App Store、Adhoc、およびスーパーサイニングでのリリース経験があります。"
+
+- name: Android Mobile APP (Java)
+  logo: "/images/author/Java_Logo.png"
+  summary: "Androidモバイルアプリケーションの開発経験があります
+          \n- Chromium ベースのアプリを開発
+          \n- FireBase Analyticsの使用経験。
+          \n- Google Play Store リリースの経験"
+
+- name: Golang Development
+  logo: "/images/author/Go_Logo.png"
+  summary: "ライブラリの開発およびユニットテストの経験
+            \n  - DNS解析ロジックの開発
+            \n  - SQLiteの統合経験
+            \n - [goproxy](https://github.com/elazarl/goproxy)を使用してHTTPプロキシライブラリを開発しました 
+            \n - [gomobile](https://pkg.go.dev/golang.org/x/mobile/cmd/gomobile)を使用してGoライブラリをコンパイルしてモバイルアプリの使用に適したものにしました"
+
+
+- name: Web Development
+  logo: "/images/author/HTML_Logo.png"
+  summary: "ウェブサイトの開発
+            \n- [HUGO](https://gohugo.io/)を使用した[Blog](/#)
+            \n- [Bootstrap](https://getbootstrap.com/)を使用した[KSM Company](https://ksm.com.tw/)"
+
+- name: Linux
+  logo: "/images/author/Linux_Logo.png"
+  summary: "基本操作指令に熟練で、GCPまたはVMwareを統合して開発およびコンパイル環境を構築することができます"
+
+- name: Python Development
+  logo: "/images/author/Python_Logo.png"
+  summary: "GCPサービス用の自動化スクリプトおよびVMの利用状況の制御を開発しました"
+
+- name: VCS & Code review
+  logo: "/images/author/Git_Logo.png"
+  summary: "主にバージョン管理にGitを使用し、チームメンバーとのコードレビューの経験があります
+  \n - GitLab, GitHub 
+  \n - Cloud Source Repositories
+  \n - Code review [Phabricator](https://secure.phabricator.com/)"
+
+- name: Cloud Service
+  logo: "/images/author/GCP_Logo.png"
+  summary: "Google Cloud Platform (GCP) & Amazon Web Service (AWS)
+             \n- Compute Engine
+             \n- Cloud Scheduler
+             \n- Cloud Function
+             \n- Pub/Sub"
+
+
+- name: Certificate
+  logo: "/images/author/Cert_Logo.png"
+  summary: "- TOEICスコア　660点
+          \n- 日本語能力試験 JLPT N2 合格
+          \n- [AWS Solution Architect Associate](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/)"
