@@ -7,12 +7,14 @@ description: Portfolio and personal blog of liyou Chen.
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: 職務経歴書
-  url: /files/resume_jp.pdf
-  # specify whether to hide the menu item from top navbar or not.
+- name: 履歴書
+  url: /files/jp_rireki.pdf
   hideFromNavbar: false
-  # specify whether to show the menu item in footer or not.
-  # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+  showOnFooter: false
+
+- name: 職務経歴書
+  url: /files/jp_shokumu.pdf
+  hideFromNavbar: false
   showOnFooter: false
 
 # Specify OpenGraph Headers
