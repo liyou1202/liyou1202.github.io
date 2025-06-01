@@ -24,7 +24,11 @@ window.addEventListener('DOMContentLoaded', event => {
         document.querySelectorAll('#navbarResponsive .nav-link')
     );
     responsiveNavItems.map(function (responsiveNavItem) {
-        responsiveNavItem.addEventListener('click', () => {
+        responsiveNavItem.addEventListener('click', (event) => {
+            // Check if the clicked element is the language dropdown toggle
+            if (responsiveNavItem.classList.contains('dropdown-toggle')) {
+                return; // Do not collapse the navbar
+            }
             if (window.getComputedStyle(navbarToggler).display !== 'none') {
                 navbarToggler.click();
             }
